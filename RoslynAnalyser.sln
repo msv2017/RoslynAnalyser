@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoslynAnalyser", "RoslynAnalyser\RoslynAnalyser.csproj", "{D32BAFAB-ACE0-4B6C-86BC-190AE86D6267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoslynAnalyserTests", "RoslynAnalyserTests\RoslynAnalyserTests.csproj", "{B1FD9D96-01C5-4D98-A306-561CFEA31712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeExample", "CodeExample\CodeExample.csproj", "{E85AC7B1-B60C-41A3-B968-EE32AEC866A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D32BAFAB-ACE0-4B6C-86BC-190AE86D6267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D32BAFAB-ACE0-4B6C-86BC-190AE86D6267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D32BAFAB-ACE0-4B6C-86BC-190AE86D6267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D32BAFAB-ACE0-4B6C-86BC-190AE86D6267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1FD9D96-01C5-4D98-A306-561CFEA31712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1FD9D96-01C5-4D98-A306-561CFEA31712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1FD9D96-01C5-4D98-A306-561CFEA31712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1FD9D96-01C5-4D98-A306-561CFEA31712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E85AC7B1-B60C-41A3-B968-EE32AEC866A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E85AC7B1-B60C-41A3-B968-EE32AEC866A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E85AC7B1-B60C-41A3-B968-EE32AEC866A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E85AC7B1-B60C-41A3-B968-EE32AEC866A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
